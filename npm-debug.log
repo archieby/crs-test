@@ -1,0 +1,19 @@
+0 info it worked if it ends with ok
+1 verbose cli [ 'E:\\dev\\nodejs\\node.exe',
+1 verbose cli   'E:\\dev\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'explore',
+1 verbose cli   'browser-sync' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose stack Error: It doesn't look like browser-sync is installed.
+4 verbose stack     at E:\dev\nodejs\node_modules\npm\lib\explore.js:23:43
+4 verbose stack     at FSReqWrap.oncomplete (fs.js:82:15)
+5 verbose cwd E:\dev\_git-repo\crs-web-test
+6 error Windows_NT 10.0.10586
+7 error argv "E:\\dev\\nodejs\\node.exe" "E:\\dev\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "explore" "browser-sync"
+8 error node v4.4.7
+9 error npm  v2.15.8
+10 error It doesn't look like browser-sync is installed.
+11 error If you need help, you may report this error at:
+11 error     <https://github.com/npm/npm/issues>
+12 verbose exit [ 1, true ]
