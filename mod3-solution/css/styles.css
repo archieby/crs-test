@@ -1,0 +1,49 @@
+body {
+	font-size: 16px;
+	color: #E8DDCB;
+	background-color: #031634;
+	font-family: 'Indie Flower', cursive;
+}
+
+#header-nav {
+	background-color: #036564;
+	border-radius: 0;
+	border: 0;
+	border-radius: 0;
+}
+
+#header-nav .navbar-brand {
+	font-size: 1.6em;
+}
+
+#header-nav .navbar-brand, #header-nav .navbar-nav>li>a {
+	color: #E8DDCB;
+}
+
+#header-nav .navbar-nav>li>a:hover, #header-nav .navbar-nav>li>a:hover {
+	background-color: #033649;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+	border: 1px solid #E8DDCB;
+}
+
+.navbar-header button.navbar-toggle:focus, .navbar-header button.navbar-toggle:hover
+	{
+	background-color: #033649;
+}
+
+h1 {
+	font-size: 2.5em;
+	margin-bottom: 20px;
+}
+
+#collapsable-nav {
+	border-color: #033649;
+}
+
+$
+main-content section>h2 {
+	font-size: 1.8em;
+	margin-bottom: 12px;
+}
